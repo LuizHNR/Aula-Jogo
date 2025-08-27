@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class HelloSript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Executa uma unica vez
     void Start()
     {
         print("Hello Word");
     }
 
-    // Update is called once per frame
+    // Executa o tempo todo
     void Update()
     {
         
